@@ -60,7 +60,7 @@ const Channel = () => {
           value={text}
           onChange={(e) => setText(e.target.value)}
         />
-        <button className="bg-gray-200 px-2 rounded py-1 ml-1">Send</button>
+        <button className="bg-gray-200 px-2 rounded py-1 ml-1">Enviar</button>
       </form>
     </section>
   );
